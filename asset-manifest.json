@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/etymology/static/css/main.e91c608b.css",
+    "main.js": "/etymology/static/js/main.88526c8e.js",
+    "index.html": "/etymology/index.html",
+    "main.e91c608b.css.map": "/etymology/static/css/main.e91c608b.css.map",
+    "main.88526c8e.js.map": "/etymology/static/js/main.88526c8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e91c608b.css",
+    "static/js/main.88526c8e.js"
+  ]
+}
