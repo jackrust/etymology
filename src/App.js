@@ -182,7 +182,7 @@ const EtymologyApp = () => {
 
   return (
     <div>
-      <h1>Etymology App</h1>
+      <h1>Etymology Game</h1>
       <div className="container">
         <p className="etymology-text">{selectedWord.etymology}</p>
         <p className="length-clue">{lengthClue}</p>
